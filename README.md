@@ -1,17 +1,18 @@
 # Car-Classification-Deep-Learning
 
+## Predict the models of the cars from given images
+
+**Albion Krasniqi**
+
+Project structure:
+
 ├── README.md           <- The top-level README for developers using this project.
 ├── data
 │   ├── raw             <- The raw data
-│   ├── interim         <- Intermediate data that has been transformed.
-│   ├── processed       <- The final, canonical data sets for modeling.
-│
+│   ├── processed       <- The processed data
 │
 ├── requirements.txt    <- Requirements for this project.
 │
 ├── utils.py            <- Utility functions for project.
-├── tweet-scraping.py   <- Tweet scraping for more data.
-│
+├── models.py           <- Models for this dataset
 ├── notebooks           <- Jupyter notebooks for this project.
-│
-├── data-dictionary.txt <- Data dictionaries, manuals, and all other explanatory materials.
