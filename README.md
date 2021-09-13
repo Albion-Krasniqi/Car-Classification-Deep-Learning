@@ -17,7 +17,7 @@
 │
 ├── requirements.txt    <- Requirements for this project.
 │
-├── utils.py            <- Utility functions for project.
+├── functions.py            <- Utility functions for project.
 ├── models.py           <- Models for this dataset
 ├── notebooks           <- Jupyter notebooks for this project.
 ```
