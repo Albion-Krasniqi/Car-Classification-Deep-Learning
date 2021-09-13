@@ -7,9 +7,8 @@
 ### Data
 **Raw data source**: https://www.kaggle.com/jessicali9530/stanford-cars-dataset
 
+**Project structure**
 ```
-**Project structure**:
-
 ├── README.md           <- The top-level README for developers using this project.
 
 ├── data
