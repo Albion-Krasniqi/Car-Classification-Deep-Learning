@@ -7,6 +7,7 @@
 Project structure:
 
 ├── README.md           <- The top-level README for developers using this project.
+
 ├── data
 │   ├── raw             <- The raw data
 │   ├── processed       <- The processed data
