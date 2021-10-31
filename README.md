@@ -26,9 +26,6 @@ Building a vehicle recognition predictive model using machine learning models (t
 │    └── traditional methods                    
 │    └── deep learning methods
 │
-├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
-│   └── figures        <- Generated graphics and figures to be used in reporting
-│
 ├── The combined notebook    <- this notebook has everything complied in one place
 │
 └── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
