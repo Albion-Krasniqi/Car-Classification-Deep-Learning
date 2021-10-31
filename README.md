@@ -1,8 +1,13 @@
-# Car-Classification-Deep-Learning
+# Car-Classification
 
 ## Predict the models of the cars from given images
 
-### Albion Krasniqi
+## Goal:
+Building a vehicle recognition predictive model using convolutional neural networks, and the goal of that model is to classify a car’s make and model based on an input image.
+
+
+
+### Author: Albion Krasniqi
 
 ### Data
 **Raw data source**: https://www.kaggle.com/jessicali9530/stanford-cars-dataset
