@@ -9,15 +9,18 @@
 
 **Project structure**
 ```
-├── README.md           <- The top-level README for developers using this project.
-
+├── LICENSE
+├── README.md          <- The top-level README for developers using this project.
 ├── data
-│   ├── raw             <- The raw data
-│   ├── processed       <- The processed data
+│   └── raw            <- The original, immutable data dump.
 │
-├── requirements.txt    <- Requirements for this project.
+├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
+│                         and a short `-` delimited description, e.g.
+│                        `1.0-initial-data-exploration`.
 │
-├── functions.py        <- Utility functions for project.
-├── models.py           <- Models for this dataset
-├── notebooks           <- Jupyter notebooks for this project.
-```
+├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
+│   └── figures        <- Generated graphics and figures to be used in reporting
+│
+└── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
+                          generated with `pip freeze > requirements.txt`
+```                          
