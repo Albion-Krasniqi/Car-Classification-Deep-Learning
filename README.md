@@ -3,7 +3,7 @@
 ## Predict the models of the cars from given images
 
 ## Goal:
-Building a vehicle recognition predictive model using convolutional neural networks, and the goal of that model is to classify a car’s make and model based on an input image.
+Building a vehicle recognition predictive model using machine learning models (traditional and deep learning), and the goal of that model is to classify a car’s make and model based on an input image.
 
 
 
