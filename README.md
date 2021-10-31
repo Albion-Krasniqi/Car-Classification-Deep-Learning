@@ -9,6 +9,7 @@ Building a vehicle recognition predictive model using machine learning models (t
 
 **Author: Albion Krasniqi**
 
+**Article - Vehicle Classification:** https://medium.com/@albionkrasniqi22_80133/vehicle-classification-742403117f43
 
 **Project structure**
 ```
