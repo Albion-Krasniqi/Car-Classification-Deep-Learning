@@ -18,11 +18,14 @@ Building a vehicle recognition predictive model using machine learning models (t
 │   └── raw            <- The original, immutable data dump.
 │
 ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
-│                         and a short `-` delimited description, e.g.
-│                        `1.0-initial-data-exploration`.
+│    └── data pre-processing         
+│    └── traditional methods                    
+│    └── deep learning methods
 │
 ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
 │   └── figures        <- Generated graphics and figures to be used in reporting
+│
+├── The combined notebook    <- this notebook has everything complied in one place
 │
 └── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
                           generated with `pip freeze > requirements.txt`
