@@ -15,7 +15,11 @@ Building a vehicle recognition predictive model using machine learning models (t
 ├── LICENSE
 ├── README.md          <- The top-level README for developers using this project.
 ├── data
-│   └── raw            <- The original, immutable data dump.
+│   └── raw              <- The link to the original data
+│   └── names            <- csv file with all the names of car classes
+│   └── training_labels  <- csv file which contains the information about the car in the training set
+│   └── testing_labels   <- csv file which contains the information about the car in the testing set
+│
 │
 ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
 │    └── data pre-processing         
