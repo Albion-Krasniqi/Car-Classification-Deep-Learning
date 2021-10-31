@@ -1,1 +1,8 @@
-
+numpy
+pandas as pd
+PIL import Image
+glob
+matplotlib.pyplot
+sklearn
+keras
+tensorflow
