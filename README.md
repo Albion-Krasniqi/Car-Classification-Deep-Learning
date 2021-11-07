@@ -8,6 +8,8 @@
 
 **Article - Vehicle Classification:** https://medium.com/@albionkrasniqi22_80133/vehicle-classification-742403117f43
 
+![](14LB.gif)
+
 **Project structure**
 ```
 ├── LICENSE
